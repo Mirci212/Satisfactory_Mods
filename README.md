@@ -1,5 +1,5 @@
 # Satisfactory_Mods
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Mirci212/Satisfactory_Mods)
+[![DeepWiki Doc](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Mirci212/Satisfactory_Mods)
 
 This repository contains mods for the game Satisfactory.
 
